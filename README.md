@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWsyamhjYW1paWp1eTBwczVndjBja3lzeGVuanVkdTBsMXY2MG1qYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6nV5ozTVC1NjFcbu/giphy.gif" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNhd3h5aWh0emRtYnYyM2k5dzE5czY2M2ZjbHl3czRhODhmcHBjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT1R9Hr7AdQBZlVGG4/giphy.gif" />
 
 **🎓 Filipino IT student and cybersecurity enthusiast.**
 
