@@ -1,7 +1,8 @@
 # auxzae
 
+<div align="center">
 <img src="https://media1.tenor.com/m/5S2LTH4lxmoAAAAC/one-piece-egghead.gif" />
-
+<div align="center">
 
 <!-- Stats -->
 <div align="center">
