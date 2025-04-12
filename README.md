@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<img src="https://media1.tenor.com/m/5S2LTH4lxmoAAAAC/one-piece-egghead.gif" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWsyamhjYW1paWp1eTBwczVndjBja3lzeGVuanVkdTBsMXY2MG1qYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6nV5ozTVC1NjFcbu/giphy.gif" />
 
 **🎓 Filipino IT student and cybersecurity enthusiast.**
 
