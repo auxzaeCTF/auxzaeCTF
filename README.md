@@ -20,7 +20,7 @@
 <div align="center">
 
 ## 🌐 Connect with Me 🍬
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/auxzae)[![TikTok](https://img.shields.io/badge/TikTok-black.svg?logo=tiktok&logoColor=white)](https://tiktok.com/@auxzae)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@auxzae9716)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/auxzae) [![TikTok](https://img.shields.io/badge/TikTok-black.svg?logo=tiktok&logoColor=white)](https://tiktok.com/@auxzae)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@auxzae9716)
 
 
 
