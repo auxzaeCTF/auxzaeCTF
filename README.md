@@ -10,7 +10,7 @@
 
 <!-- Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=auxzaeCTF&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api?username=auxzae&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
 </div>
 
 
