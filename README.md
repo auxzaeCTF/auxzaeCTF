@@ -3,7 +3,7 @@
 <div align="center">
   
 <img src="https://media1.tenor.com/m/5S2LTH4lxmoAAAAC/one-piece-egghead.gif" />
-
+**🎓 Filipino student and cybersecurity enthusiast.**
 <div align="center">
 
 <!-- Stats -->
