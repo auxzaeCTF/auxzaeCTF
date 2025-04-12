@@ -1,5 +1,8 @@
 # auxzae
-
+<h1 align="center">Hi there, I'm Audre</a> <img
+src="https://media2.giphy.com/media/iGYHARMv4DVk5d1Fh9/giphy.gif?cid=790b7611d073342720951ca87491de93451b68b7714db5e5&rid=giphy.gif&ct=g" height="32" /></h1> 
+<div align="center">
+  
 <div align="center">
   
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNhd3h5aWh0emRtYnYyM2k5dzE5czY2M2ZjbHl3czRhODhmcHBjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT1R9Hr7AdQBZlVGG4/giphy.gif" />
