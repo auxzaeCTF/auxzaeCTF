@@ -27,6 +27,7 @@ src="https://media2.giphy.com/media/iGYHARMv4DVk5d1Fh9/giphy.gif?cid=790b7611d07
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![SageMath](https://img.shields.io/badge/SageMath-%231e4aad.svg?style=for-the-badge&logo=sagemath&logoColor=white)
 
 ### 💻 Operating Systems & Platforms
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
