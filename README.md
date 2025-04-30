@@ -11,12 +11,6 @@ src="https://media2.giphy.com/media/iGYHARMv4DVk5d1Fh9/giphy.gif?cid=790b7611d07
 
 <div align="center">
 
-<!-- Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=auxzaeCTF&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-</div>
-
-
 <!-- Tech Stack -->
 <div align="center">
   
