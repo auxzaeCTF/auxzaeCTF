@@ -31,23 +31,6 @@ src="https://media2.giphy.com/media/iGYHARMv4DVk5d1Fh9/giphy.gif?cid=790b7611d07
 ### 🎨 Adobe Creative Tools
 ![Adobe After Effects](https://img.shields.io/badge/After%20Effects-9999FF.svg?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
 
-
-</div>
-
-
-
-<!-- Social connections -->
-<div align="center">
-
-## 🌐 Connect with Me 🍬
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/auxzae) [![TikTok](https://img.shields.io/badge/TikTok-black.svg?logo=tiktok&logoColor=white)](https://tiktok.com/@auxzae)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@auxzae9716)
-
-
-
-</div>
-
-
-
 <!-- Snake Animation -->
 <div align="center">
     
