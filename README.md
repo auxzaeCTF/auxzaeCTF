@@ -1,4 +1,3 @@
-# auxzae
 <h1 align="center">Hi there, I'm AUXZAE</a> <img
 src="https://media2.giphy.com/media/iGYHARMv4DVk5d1Fh9/giphy.gif?cid=790b7611d073342720951ca87491de93451b68b7714db5e5&rid=giphy.gif&ct=g" height="32" /></h1> 
 <div align="center">
